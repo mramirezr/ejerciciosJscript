@@ -1,0 +1,19 @@
+{
+  "name": "ejerciciosjscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramirezr/ejerciciosJscript.git"
+  },
+  "author": "mramirezr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mramirezr/ejerciciosJscript/issues"
+  },
+  "homepage": "https://github.com/mramirezr/ejerciciosJscript#readme"
+}
